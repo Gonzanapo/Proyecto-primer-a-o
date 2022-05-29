@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 33f63568100acd9469f6fb164aa5aca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteRenderer: {instanceID: 0}
+  - Player: {fileID: 1035108267685562, guid: f588b030217329c47842bf3f8c7ab1cc, type: 2}
+  - proyectilTierra: {fileID: 1072816270880470, guid: a28f9932a694a034883f78d53fa36a29,
+      type: 2}
+  - spawnPoint: {fileID: 1072816270880470, guid: a28f9932a694a034883f78d53fa36a29,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
